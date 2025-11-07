@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Hi, I'm Hemanth<br>- I'm Information science student at Visvesvaraya Technological University with a passion for learning and building cool projects.<br>- currently, I'm exploring aeras like Full Stack development, Cloud Computing & DevOps.<br><br>- Bachelor of Engineering in Infromation Science, Expected Graduation: [2025]<br><br>
+- Hi, I'm Hemanth<br>- I'm Information science student at Visvesvaraya Technological University with a passion for learning and building cool projects.<br>- currently, I'm exploring aeras like Full Stack development, Cloud Computing.<br><br>- Bachelor of Engineering in Infromation Science, Expected Graduation: [2025]<br><br>
 
 
 ## 🌐 Socials:
